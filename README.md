@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Denny Liang
-- 👀 I’m interested in Web3 - specifically DAOs
-- 🌱 I’m currently learning Web3 Development
-- 💞️ I’m looking to collaborate on DAO projects
+- 💼 Currently looking for a Software Engineer Job 
+- 👀 I’m interested in Web3 and Startups
+- 🌱 Always learning - an eternal student
+- 💞️ Down to collaborate on projects within the Web3 space
 - 📫 How to reach me:
 -   1) EMAIL: denny.liang29@gmail.com
 -   2) Twitter: https://twitter.com/DennyLiang29
