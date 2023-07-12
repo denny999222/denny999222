@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denny Liang
-- 💼 Currently looking for a Software Engineer Job 
+- 💼 Full Stack Dev
 - 👀 I’m interested in Web3 and Startups
 - 🌱 Always learning - an eternal student
 - 💞️ Down to collaborate on projects within the Web3 space
